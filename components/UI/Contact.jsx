@@ -24,7 +24,7 @@ const Contact = () => {
                 <span>
                   <i className="ri-map-pin-line"></i>
                 </span>
-                <p>Petersdamm 5 - 48167 Münster</p>
+                <p>xxxxxxxxxxxxxx 5 - 48167 Münster</p>
               </li>
               <li className={`${classes.info__item}`}>
                 <span>
